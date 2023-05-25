@@ -1,7 +1,7 @@
 # Chrome Dino Bot
 
 
-A Python-based bot that plays the Chrome Dino game automatically. It uses computer vision techniques to detect obstacles and make the dinosaur jump to avoid them. The bot utilizes the OpenCV and PyAutoGUI libraries to achieve automated gameplay.
+A Python-based bot that plays the Chrome Dino game automatically.  The bot utilizes the PyAutoGUI libraries to achieve gameplay.
 
 
 
